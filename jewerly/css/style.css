@@ -190,3 +190,7 @@ button.choose:hover{
 	padding-top: 100px;
 	line-height: 30px;
 }
+
+.intro .text p {
+	margin-bottom: 30px;
+}
