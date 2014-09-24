@@ -53,8 +53,6 @@ header h1 {
 	padding: 0;
 	margin: 0;
 
-	
-	
 }
 
 header h1 a{
@@ -102,7 +100,7 @@ header .menu .item a:hover{
 
 }
 
-.cleafix {
+.clearfix {
 
 	clear: both;
 }
@@ -165,6 +163,7 @@ button.choose:hover{
 
 	background-color: white;
 	color: black;
+
 }
 
 .container {
@@ -175,22 +174,106 @@ button.choose:hover{
 }
 
 .intro h3{
+
 	float: left;
-	font-size: 41px;
+	font-size: 46px;
 	font-weight: 400;
 	width: 300px;
-	padding-top: 100px;
+	padding-top: 185px;
+
 }
 
 .intro .text {
+
 	float: right;
 	width: 500px;
 	color: #b0bbc0;
 	font-size: 16px;
 	padding-top: 100px;
 	line-height: 30px;
+
 }
 
 .intro .text p {
-	margin-bottom: 30px;
+
+	margin-bottom: 0;
+
+}
+
+.division {
+
+	border-top: 1px solid #f1f1f1;
+	margin: 100px 0;
+
+}
+
+.work h3 {
+
+	font-size: 30px;
+	margin: 0;
+	text-align: center;
+
+}
+
+.work .separador {
+
+	text-align: center;
+	margin: 20px 0;
+
+}
+
+.work .subtitle {
+
+	text-align: center;
+	color: #b7b7b7;
+	font-weight: 300;
+	margin-bottom: 88px;
+
+}
+
+.work .work-container{
+
+	margin: 32px 0;
+
+}
+
+.work .work-wrap {
+
+	width: 285px;
+	float: left;
+	margin-right: 82px;
+
+}
+
+.work .work-wrap:last-child{
+
+	margin-right: 0px;
+
+}
+
+.work h4 {
+
+	font-size: 18px;
+
+}
+
+.work p {
+
+	font-size: 16px;
+	color: #b7b7b7;
+	font-weight: 300;
+
+}
+
+.slider {
+
+	padding: 100px 0;
+	background-color: #faf9f9;
+
+}
+
+.slider img.thumb {
+
+	float: left;
+
 }

@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
 				"ciudad",
 				"ciudadfinal"
 			],
@@ -28,10 +60,6 @@
 				"domicilio"
 			],
 			[
-				"margin",
-				"margin"
-			],
-			[
 				"paddi",
 				"padding-top"
 			],
@@ -52,20 +80,12 @@
 				"html	html"
 			],
 			[
-				"font",
-				"font-weight"
-			],
-			[
 				"hea",
 				"header-container"
 			],
 			[
 				"lef",
 				"left"
-			],
-			[
-				"color",
-				"background-color"
 			],
 			[
 				"back",
@@ -80,10 +100,6 @@
 				"list-style"
 			],
 			[
-				"paddin",
-				"padding"
-			],
-			[
 				"miPapa",
 				"miPapa"
 			],
@@ -96,58 +112,34 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio1.html",
+			"file": "jewerly/css/style.css",
 			"settings":
 			{
-				"buffer_size": 6175,
+				"buffer_size": 3373,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo1.html",
+			"file": "jewerly/index.html",
 			"settings":
 			{
-				"buffer_size": 714,
+				"buffer_size": 4713,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo2.html",
+			"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo3.html",
 			"settings":
 			{
-				"buffer_size": 501,
+				"buffer_size": 761,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio4.html",
+			"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo4.html",
 			"settings":
 			{
-				"buffer_size": 609,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio3.html",
-			"settings":
-			{
-				"buffer_size": 1334,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio5(Examen1).html",
-			"settings":
-			{
-				"buffer_size": 2006,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio2.html",
-			"settings":
-			{
-				"buffer_size": 2142,
+				"buffer_size": 818,
 				"line_ending": "Windows"
 			}
 		}
@@ -200,13 +192,21 @@
 	},
 	"file_history":
 	[
+		"/F/repaso.html",
+		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/edicionweb2014/index.html",
+		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio1.html",
+		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo1.html",
+		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo2.html",
+		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio4.html",
+		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio3.html",
+		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio5(Examen1).html",
+		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio2.html",
+		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/edicionweb2014/edicionweb2014.sublime-project",
 		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Tarea1.html",
 		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/edicionweb2014/jewerly/css/style.css",
 		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/Examen/ExamenPrimerParcial.html",
 		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/edicionweb2014/jewerly/index.html",
 		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/Examen/css/style.css",
-		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/edicionweb2014/index.html",
-		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio2.html",
 		"/C/Users/Ady/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/Ady/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/Ady/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
@@ -216,9 +216,6 @@
 		"/H/calculadora.html",
 		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/jewerly/css/style.css",
 		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/jewerly/index.html",
-		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio1.html",
-		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo1.html",
-		"/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo2.html",
 		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/Ejemplo1/Ejemplo1.html",
 		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/Ejemplo1/.gitignore",
 		"/C/Users/Ady/Documents/Ady/Clases Universidad/EdiciónWeb/repositorios/Ejemplo1.html",
@@ -260,23 +257,23 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio1.html",
+					"file": "jewerly/css/style.css",
 					"settings":
 					{
-						"buffer_size": 6175,
+						"buffer_size": 3373,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6136,
-								6136
+								3329,
+								3329
 							]
 						],
 						"settings":
@@ -418,29 +415,29 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2895.0,
+						"translation.y": 5544.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo1.html",
+					"file": "jewerly/index.html",
 					"settings":
 					{
-						"buffer_size": 714,
+						"buffer_size": 4713,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3161,
+								3161
 							]
 						],
 						"settings":
@@ -586,517 +583,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 259.0,
+						"translation.y": 1847.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo2.html",
+					"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo3.html",
 					"settings":
 					{
-						"buffer_size": 501,
+						"buffer_size": 761,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio4.html",
-					"settings":
-					{
-						"buffer_size": 609,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								252,
-								252
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 192.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio3.html",
-					"settings":
-					{
-						"buffer_size": 1334,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								472,
-								472
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 192.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio5(Examen1).html",
-					"settings":
-					{
-						"buffer_size": 2006,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1791,
-								1791
+								462,
+								462
 							]
 						],
 						"settings":
@@ -1241,25 +746,25 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1605.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejercicio2.html",
+					"buffer": 3,
+					"file": "/C/Users/Ady/Documents/Ady/Clases Universidad/Desarrollo Web/Primer Parcial/Ejemplo4.html",
 					"settings":
 					{
-						"buffer_size": 2142,
+						"buffer_size": 818,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								529,
-								337
+								638,
+								638
 							]
 						],
 						"settings":
@@ -1401,11 +906,10 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 420.0,
+						"translation.y": 265.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
