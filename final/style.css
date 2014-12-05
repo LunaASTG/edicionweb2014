@@ -5,6 +5,11 @@ body {
   padding: 0;
   font-family: 'Fugaz One', cursive;
 }
+.container-division {
+  width: 100%;
+  height: 3px;
+  border-bottom: 2px solid #4a5861;
+}
 h1,
 h2,
 h3,
@@ -218,11 +223,6 @@ header a:hover {
   float: right;
   font-size: 32px;
 }
-.slider .container-division {
-  width: 100%;
-  height: 3px;
-  border-bottom: 2px solid #4a5861;
-}
 /*FIN DE SLIDER*/
 /* FIN DE HEADER */
 .aboutme {
@@ -322,11 +322,6 @@ header a:hover {
   margin-top: 0;
   margin-bottom: 15px;
 }
-.aboutme .container-division {
-  width: 100%;
-  height: 3px;
-  border-bottom: 2px solid #4a5861;
-}
 section.portafolio {
   background: #da825d;
   width: 100%;
@@ -392,11 +387,6 @@ section.portafolio .photo {
 section.portafolio .photo:last-child {
   display: inline-block;
   margin-right: 0px;
-}
-section.portafolio .container-division {
-  width: 100%;
-  height: 3px;
-  border-bottom: 2px solid #4a5861;
 }
 section.myblog {
   background-color: #c8c8c8;
