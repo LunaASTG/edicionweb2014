@@ -404,7 +404,7 @@ section.myblog {
 }
 section.myblog .blog {
   width: 100%;
-  height: 800px;
+  height: 1000px;
 }
 section.myblog .blog-header {
   width: 100%;
@@ -451,6 +451,7 @@ section.myblog .blog-search {
   height: 705px;
   width: 255px;
   position: relative;
+  margin-left: 80px;
   display: inline-block;
 }
 section.myblog .post-container {
@@ -517,4 +518,78 @@ section.myblog .continue {
   display: inline-table;
   float: left;
   margin-top: -4px;
+}
+section.myblog .search {
+  width: auto;
+  height: auto;
+  padding: 0;
+  margin-bottom: 20px;
+}
+section.myblog .title {
+  font-size: 26px;
+  color: #383838;
+}
+section.myblog .little-text {
+  font-size: 11px;
+  color: #383838;
+}
+section.myblog .banner {
+  height: 11px;
+  width: 255px;
+  overflow: hidden;
+}
+section.myblog .name {
+  font-size: 11px;
+  color: #383838;
+}
+section.myblog .hashtags {
+  font-size: 11px;
+  color: #d06949;
+}
+section.myblog .hashtags2 {
+  font-size: 11px;
+  color: #d06949;
+  margin-bottom: 10px;
+}
+section.myblog .intro {
+  font-size: 26px;
+  color: #383838;
+}
+section.myblog .text-blog h5 {
+  font-size: 11px;
+  color: #383838;
+  display: inline-table;
+}
+section.myblog .text-blog h6 {
+  display: inline-table;
+  font-size: 11px;
+  color: #d06949;
+}
+section.myblog .orange {
+  margin-top: 0;
+}
+section.myblog .cuadro-fecha2 {
+  width: 47px;
+  height: 54px;
+  position: relative;
+  background-color: #383838;
+}
+section.myblog .p3 {
+  font-size: 12px;
+  color: #383838;
+  width: 620px;
+  margin-top: -55px;
+  margin-left: 54px;
+  height: auto;
+  display: inline-table;
+  text-align: justify;
+}
+section.myblog .p4 {
+  font-size: 12px;
+  color: #383838;
+  width: 672px;
+  margin-top: -10px;
+  height: auto;
+  display: inline-table;
+  text-align: justify;
 }
