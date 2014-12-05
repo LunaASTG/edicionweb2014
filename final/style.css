@@ -583,3 +583,6 @@ section.myblog .p4 {
   display: inline-table;
   text-align: justify;
 }
+section.contactme {
+  background-color: #3b3b3b;
+}
