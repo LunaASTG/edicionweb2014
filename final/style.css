@@ -585,4 +585,86 @@ section.myblog .p4 {
 }
 section.contactme {
   background-color: #3b3b3b;
+  width: 100%;
+}
+section.contactme .contact-container {
+  width: 100%;
+  height: 1000px;
+}
+section.contactme .contact-header {
+  width: 100%;
+  padding-top: 25px;
+  position: relative;
+}
+section.contactme .contact-header h2 {
+  font-size: 100px;
+  color: #f7eace;
+  display: inline-block;
+}
+section.contactme .line {
+  width: 5px;
+  height: 120px;
+  border-right: 3px solid #f7eace;
+  border-left: 3px solid #f7eace;
+  background-color: #3b3b3b;
+  display: inline-block;
+  margin-left: 20px;
+}
+section.contactme .text1 {
+  font-size: 12px;
+  color: #f7eace;
+  width: 300px;
+  margin-top: -2px;
+  height: auto;
+  float: right;
+  display: inline-table;
+  margin-left: 10px;
+}
+section.contactme .text2 {
+  font-size: 12px;
+  color: #f7eace;
+  width: 300px;
+  margin-top: -110px;
+  height: auto;
+  float: right;
+  display: inline-table;
+  margin-left: 10px;
+}
+section.contactme .text3 {
+  font-size: 12px;
+  color: #f7eace;
+  width: 300px;
+  margin-left: 10px;
+  margin-top: -60px;
+  height: auto;
+  float: right;
+  display: inline-table;
+}
+section.contactme .contact h4 {
+  font-size: 24px;
+  color: #d06949;
+}
+section.contactme .send-button {
+  position: absolute;
+  width: 72px;
+  height: 30px;
+  background-color: #d06949;
+  color: #3b3b3b;
+  text-align: center;
+  margin-left: 25%;
+  margin-top: 10px;
+}
+section.contactme .send-button h5 {
+  font-size: 24px;
+  position: relative;
+  top: -1px;
+  left: 0;
+}
+section.contactme .send-button:hover {
+  background-color: #f7eace;
+  color: #d06949;
+}
+section.contactme .social-media {
+  margin-top: 100px;
+  text-align: center;
 }
