@@ -40,7 +40,7 @@ header .menu-brand {
   width: 150px;
   height: 150px;
   display: block;
-  background-image: url(img/icono1.png);
+  background-image: url(img/icono6.png);
   position: absolute;
   background-position: center center;
   background-repeat: no-repeat;
@@ -438,4 +438,84 @@ section.myblog .text1 {
 }
 section.myblog .blog-container {
   width: 100%;
+  margin-top: 20px;
+  position: absolute;
+}
+section.myblog .blog-post {
+  width: 672px;
+  height: 705px;
+  float: left;
+  display: inline-block;
+  position: relative;
+}
+section.myblog .blog-search {
+  height: 705px;
+  width: 255px;
+  position: relative;
+  display: inline-block;
+}
+section.myblog .post-container {
+  position: absolute;
+  display: inline-table;
+}
+section.myblog .post-container img {
+  float: left;
+}
+section.myblog .post-container h4 {
+  font-size: 26px;
+  color: #383838;
+}
+section.myblog .post-container h5 {
+  font-size: 11px;
+  color: #383838;
+  display: inline-table;
+}
+section.myblog .post-container h6 {
+  font-size: 11px;
+  color: #d06949;
+  display: inline-table;
+}
+section.myblog .comment {
+  float: right;
+}
+section.myblog .cuadro-fecha {
+  width: 47px;
+  height: 54px;
+  position: absolute;
+  top: 72px;
+  left: 228px;
+  background-color: #383838;
+}
+section.myblog .fecha {
+  color: white;
+  position: relative;
+  top: -17px;
+  left: 0;
+  font-size: 18px;
+  text-align: center;
+}
+section.myblog .p1 {
+  font-size: 12px;
+  color: #383838;
+  width: 390px;
+  margin-top: -1px;
+  height: auto;
+  float: right;
+  display: inline-table;
+  text-align: justify;
+}
+section.myblog .p2 {
+  font-size: 12px;
+  color: #383838;
+  width: 443px;
+  margin-top: -11px;
+  height: auto;
+  float: right;
+  display: inline-table;
+  text-align: justify;
+}
+section.myblog .continue {
+  display: inline-table;
+  float: left;
+  margin-top: -4px;
 }
