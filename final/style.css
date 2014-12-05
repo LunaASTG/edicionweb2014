@@ -436,3 +436,6 @@ section.myblog .text1 {
   display: inline-block;
   text-align: justify;
 }
+section.myblog .blog-container {
+  width: 100%;
+}
